@@ -12,7 +12,7 @@
 | ----------------------- |  ----------------------------------------------------------------- |
 | `Graphql`               |  A query language for your API                                     |
 | `apollo-server`         |  GraphQL schema basics - Node.js middleware                        |
-| `jsonwebtoken`          |  UI library                                                        |
+| `jsonwebtoken`          |  creating data with optional encryption                            |
 | `mongodb`               |  NoSQL database program uses JSON                                  |
 | `mongoose`              |  library that creates a connection between MongoDB and the Express |
 
